@@ -1,1 +1,1 @@
-svn up E:\AntManAndroidDev --username=wangyu
+svn up E:\AntMan_android_dev --username=wangyu
